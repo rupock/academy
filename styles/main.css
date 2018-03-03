@@ -1,0 +1,18 @@
+.containerOne {
+    margin: 0,auto;
+    margin-left: 30px;
+    margin-right: 30px;
+    color:green;
+    background:black;
+};
+.containerTwo {
+   background:palegreen;
+};
+.containerF{
+    margin: 0,auto;
+    margin-left: 30px;
+    margin-right: 30px;
+    color:white;
+    background:black;
+};
+
