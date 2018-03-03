@@ -1,2 +1,2 @@
-# academy
+# Academy
 Programming in HTML5 
